@@ -3,3 +3,6 @@
 __pycache__/Classifier_Lorenzo.cpython-39.pyc
 .ipynb_checkpoints/Classifier_Lorenzo-checkpoint.ipynb
 .ipynb_checkpoints/PCA_Murphy-checkpoint.ipynb
+__pycache__/PCA_Function.cpython-39.pyc
+__pycache__/PCA_Murphy.cpython-39.pyc
+*.pyc
